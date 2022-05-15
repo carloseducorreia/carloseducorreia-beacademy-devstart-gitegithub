@@ -19,7 +19,7 @@ git init -> Inicia um repositório vazio
 git clone "url do repositorio" -> Clona um repositório já existente
 ```
 
-##Demais comandos 
+## Demais comandos 
 
 ### Setar ferramenta de merge
 ```
