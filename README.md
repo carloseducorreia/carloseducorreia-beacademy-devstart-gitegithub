@@ -1,5 +1,5 @@
 
-# Primeiro entregável da sprint 2 
+# Primeiro entregável (sprint 2) 
 
 ## Descrição da atividade
 
